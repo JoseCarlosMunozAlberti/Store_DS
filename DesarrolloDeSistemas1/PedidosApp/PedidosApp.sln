@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidosApp", "PedidosApp.csproj", "{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

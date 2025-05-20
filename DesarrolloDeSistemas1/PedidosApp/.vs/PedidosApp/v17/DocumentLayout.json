@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|d:\\desarrolo de sistemas1p\\actividad 2.2 sin stored procedures\\desarrollodesistemas1\\pedidosapp\\reportes\\frmstockarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:reportes\\frmstockarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\reportes\\frmingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:reportes\\frmingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\reportes\\frmingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:reportes\\frmingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\reportes\\rptstockarticulos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:reportes\\rptstockarticulos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\dsprincipal.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:dsprincipal.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\reportes\\frmstockarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:reportes\\frmstockarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\reportes\\rptingresos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:reportes\\rptingresos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\reportes\\frmingresos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:reportes\\frmingresos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\reportes\\frmstockarticulos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:reportes\\frmstockarticulos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\frmingreso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:frmingreso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capanegocio\\ningreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ningreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capadatos\\dingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capadatos\\dpresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dpresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capanegocio\\ntrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ntrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capanegocio\\nventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\nventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capanegocio\\nproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\nproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capanegocio\\npresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\npresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capanegocio\\ncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capanegocio\\ncategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ncategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capanegocio\\narticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33168A33-7ED8-4D00-9A0A-FAFD0504DB6C}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\narticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capadatos\\dventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capadatos\\dtrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dtrabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capadatos\\dproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capadatos\\dcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capadatos\\dcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capadatos\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\capadatos\\darticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E662B6D0-15B2-46A3-B296-6D0D1DC335A3}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\darticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0ADB76-EB9F-42F8-8E08-64ACDD9F64B0}|PedidosApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmIngresos.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmIngresos.cs",
+              "RelativeDocumentMoniker": "Reportes\\FrmIngresos.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmIngresos.cs",
+              "RelativeToolTip": "Reportes\\FrmIngresos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:45:35.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rptStockArticulos.rdlc [Design]",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\rptStockArticulos.rdlc",
+              "RelativeDocumentMoniker": "Reportes\\rptStockArticulos.rdlc",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\rptStockArticulos.rdlc [Design]",
+              "RelativeToolTip": "Reportes\\rptStockArticulos.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-06T15:16:26.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmStockArticulos.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmStockArticulos.cs",
+              "RelativeDocumentMoniker": "Reportes\\FrmStockArticulos.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmStockArticulos.cs",
+              "RelativeToolTip": "Reportes\\FrmStockArticulos.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:13:18.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dsPrincipal.xsd",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\dsPrincipal.xsd",
+              "RelativeDocumentMoniker": "dsPrincipal.xsd",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\dsPrincipal.xsd",
+              "RelativeToolTip": "dsPrincipal.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-06T15:16:05.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAlwGkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:02:04.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmStockArticulos.cs [Design]",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmStockArticulos.cs",
+              "RelativeDocumentMoniker": "Reportes\\FrmStockArticulos.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmStockArticulos.cs [Design]",
+              "RelativeToolTip": "Reportes\\FrmStockArticulos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:29:48.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmIngresos.cs [Design]",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmIngresos.cs",
+              "RelativeDocumentMoniker": "Reportes\\FrmIngresos.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmIngresos.cs [Design]",
+              "RelativeToolTip": "Reportes\\FrmIngresos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:01:47.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmIngreso.cs [Design]",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmIngreso.cs",
+              "RelativeDocumentMoniker": "FrmIngreso.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmIngreso.cs [Design]",
+              "RelativeToolTip": "FrmIngreso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:42:33.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmIngresos.Designer.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmIngresos.Designer.cs",
+              "RelativeDocumentMoniker": "Reportes\\FrmIngresos.Designer.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmIngresos.Designer.cs",
+              "RelativeToolTip": "Reportes\\FrmIngresos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:45:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rptIngresos.rdlc [Design]",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\rptIngresos.rdlc",
+              "RelativeDocumentMoniker": "Reportes\\rptIngresos.rdlc",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\rptIngresos.rdlc [Design]",
+              "RelativeToolTip": "Reportes\\rptIngresos.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-07T00:03:29.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmIngreso.Designer.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmIngreso.Designer.cs",
+              "RelativeDocumentMoniker": "FrmIngreso.Designer.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmIngreso.Designer.cs",
+              "RelativeToolTip": "FrmIngreso.Designer.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAcwHoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:55:02.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmStockArticulos.Designer.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmStockArticulos.Designer.cs",
+              "RelativeDocumentMoniker": "Reportes\\FrmStockArticulos.Designer.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Reportes\\FrmStockArticulos.Designer.cs",
+              "RelativeToolTip": "Reportes\\FrmStockArticulos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:10:56.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmArticulo.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmArticulo.cs",
+              "RelativeDocumentMoniker": "FrmArticulo.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmArticulo.cs",
+              "RelativeToolTip": "FrmArticulo.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:44:59.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmArticulo.cs [Design]",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmArticulo.cs",
+              "RelativeDocumentMoniker": "FrmArticulo.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmArticulo.cs [Design]",
+              "RelativeToolTip": "FrmArticulo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:40:48.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmIngreso.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmIngreso.cs",
+              "RelativeDocumentMoniker": "FrmIngreso.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\FrmIngreso.cs",
+              "RelativeToolTip": "FrmIngreso.cs",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAnwA4CAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:01:47.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DIngreso.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DIngreso.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DIngreso.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DIngreso.cs",
+              "RelativeToolTip": "CapaDatos\\DIngreso.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswDIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:38:19.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DPresentacion.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DPresentacion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DPresentacion.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DPresentacion.cs",
+              "RelativeToolTip": "CapaDatos\\DPresentacion.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:10:46.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NIngreso.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NIngreso.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NIngreso.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NIngreso.cs",
+              "RelativeToolTip": "CapaNegocio\\NIngreso.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:00:04.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NTrabajador.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NTrabajador.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NTrabajador.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NTrabajador.cs",
+              "RelativeToolTip": "CapaNegocio\\NTrabajador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:14:28.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NVenta.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NVenta.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NVenta.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NVenta.cs",
+              "RelativeToolTip": "CapaNegocio\\NVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:14:30.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NProveedor.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NProveedor.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NProveedor.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NProveedor.cs",
+              "RelativeToolTip": "CapaNegocio\\NProveedor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:14:24.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NPresentacion.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NPresentacion.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NPresentacion.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NPresentacion.cs",
+              "RelativeToolTip": "CapaNegocio\\NPresentacion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:58:19.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NCliente.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NCliente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NCliente.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NCliente.cs",
+              "RelativeToolTip": "CapaNegocio\\NCliente.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:14:27.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NCategoria.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NCategoria.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NCategoria.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NCategoria.cs",
+              "RelativeToolTip": "CapaNegocio\\NCategoria.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:14:20.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NArticulo.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NArticulo.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NArticulo.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaNegocio\\NArticulo.cs",
+              "RelativeToolTip": "CapaNegocio\\NArticulo.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:43:48.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DVenta.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DVenta.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DVenta.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DVenta.cs",
+              "RelativeToolTip": "CapaDatos\\DVenta.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:58:30.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DTrabajador.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DTrabajador.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DTrabajador.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DTrabajador.cs",
+              "RelativeToolTip": "CapaDatos\\DTrabajador.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:58:22.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DProveedor.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DProveedor.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DProveedor.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DProveedor.cs",
+              "RelativeToolTip": "CapaDatos\\DProveedor.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:58:21.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DCliente.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DCliente.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DCliente.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DCliente.cs",
+              "RelativeToolTip": "CapaDatos\\DCliente.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:58:19.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DCategoria.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DCategoria.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DCategoria.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DCategoria.cs",
+              "RelativeToolTip": "CapaDatos\\DCategoria.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAgwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:58:17.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DbConnection.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DbConnection.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DbConnection.cs",
+              "RelativeToolTip": "CapaDatos\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:10:19.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DArticulo.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DArticulo.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DArticulo.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\CapaDatos\\DArticulo.cs",
+              "RelativeToolTip": "CapaDatos\\DArticulo.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAgwC8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:43:50.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Desarrolo de sistemas1P\\actividad 2.2 sin Stored Procedures\\DesarrolloDeSistemas1\\PedidosApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:48:20.99Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

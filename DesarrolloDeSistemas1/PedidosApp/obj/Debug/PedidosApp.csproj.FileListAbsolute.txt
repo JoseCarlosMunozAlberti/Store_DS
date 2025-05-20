@@ -1,0 +1,151 @@
+C:\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.exe
+C:\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaNegocio.dll
+C:\DesarrolloDeSistemas1\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+C:\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaNegocio.pdb
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.Up2Date
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.exe
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaDatos.dll
+C:\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaDatos.pdb
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+C:\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.exe
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaNegocio.dll
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaDatos.dll
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaNegocio.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaDatos.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.Up2Date
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.exe
+C:\Users\Diego GMQ\OneDrive\Desktop\act2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.exe
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.exe
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaNegocio.dll
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaDatos.dll
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaNegocio.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaDatos.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.Up2Date
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.exe
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.exe.config
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.exe
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaNegocio.dll
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaDatos.dll
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaNegocio.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaDatos.pdb
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.Up2Date
+C:\Users\Diego GMQ\OneDrive\Desktop\actividad 2.2\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmVenta.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.exe.config
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.exe
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\PedidosApp.pdb
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaNegocio.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\FontAwesome.Sharp.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaDatos.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaNegocio.pdb
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\CapaDatos.pdb
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.AssemblyReference.cache
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmArticulo.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmCategoria.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmPrincipal.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmVenta.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmVistaCategoria_Articulo.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.Properties.Resources.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.GenerateResource.cache
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.csproj.Up2Date
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.exe
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.pdb
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmLogin.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\EnvDTE.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\stdole.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.Reportes.FrmStockArticulos.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmIngreso.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmProveedor.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.FrmTrabajador.resources
+D:\Desarrolo de sistemas1P\actividad 2.2 sin Stored Procedures\DesarrolloDeSistemas1\PedidosApp\obj\Debug\PedidosApp.Reportes.FrmIngresos.resources
